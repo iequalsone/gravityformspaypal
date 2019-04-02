@@ -1,5 +1,5 @@
 {
-    "name": "wp-premium/gravityformspaypal",
+    "name": "iequalsone/gravityformspaypal",
     "type": "wordpress-plugin",
     "autoload": {
         "classmap": [
